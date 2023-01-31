@@ -1,0 +1,8 @@
+﻿  MyForm.cpp
+C:\Users\Dhammika Kekulawala\Desktop\acadamick\2nd year\2nd semester\COM2308-Software Engineer\project\RailwayTicketBookingSystem\MyForm.h(2,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Dhammika Kekulawala\Desktop\acadamick\2nd year\2nd semester\COM2308-Software Engineer\project\RailwayTicketBookingSystem\MyForm2.h(2,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Dhammika Kekulawala\Desktop\acadamick\2nd year\2nd semester\COM2308-Software Engineer\project\RailwayTicketBookingSystem\MyForm2.h(3,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Dhammika Kekulawala\Desktop\acadamick\2nd year\2nd semester\COM2308-Software Engineer\project\RailwayTicketBookingSystem\MyForm4.h(2,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Dhammika Kekulawala\Desktop\acadamick\2nd year\2nd semester\COM2308-Software Engineer\project\RailwayTicketBookingSystem\MyForm.h(3,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  MyForm.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
+  RailwayTicketBookingSystem.vcxproj -> C:\Users\Dhammika Kekulawala\Desktop\acadamick\2nd year\2nd semester\COM2308-Software Engineer\project\RailwayTicketBookingSystem\Debug\RailwayTicketBookingSystem.exe
